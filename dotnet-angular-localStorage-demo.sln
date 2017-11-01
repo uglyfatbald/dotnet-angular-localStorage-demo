@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-angular-localStorage-demo", "dotnet-angular-localStorage-demo.csproj", "{0C3682A3-478F-4780-8F1C-F788A8901AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3682A3-478F-4780-8F1C-F788A8901AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3682A3-478F-4780-8F1C-F788A8901AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3682A3-478F-4780-8F1C-F788A8901AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3682A3-478F-4780-8F1C-F788A8901AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C3373F-20BE-4B3D-B043-C4935DF24965}
+	EndGlobalSection
+EndGlobal
